@@ -15,6 +15,14 @@ btnDisplay.addEventListener('click', function(){
     body[0].style.backgroundColor = color;
 });
 
+
+function AddTwoNumbers(num1, num2)
+{
+    let total = num1 + num2;
+    return total;
+}
+
+let compareExample = 5 % 3;
 */
 
 
