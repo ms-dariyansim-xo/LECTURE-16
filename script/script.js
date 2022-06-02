@@ -1,3 +1,6 @@
+//Testing to see if JS' alert works.
+alert('This is working!');
+
 /* window.onload = function(){}
 
 const btnDisplay = document.getElementById();
