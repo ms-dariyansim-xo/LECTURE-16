@@ -1,7 +1,7 @@
 //Testing to see if JS' alert works.
-alert('This is working!');
+//alert('This is working!');
 
-/* window.onload = function(){}
+window.onload = function(){}
 
 const btnDisplay = document.getElementById();
 const numbers = document.getElementsByClassName();
@@ -23,6 +23,6 @@ function AddTwoNumbers(num1, num2)
 }
 
 let compareExample = 5 % 3;
-*/
+
 
 
