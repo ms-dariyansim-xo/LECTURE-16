@@ -4,7 +4,7 @@
 window.onload = function(){
 
 const btnDisplay = document.getElementById("btnDisplay");
-const numbers = document.getElementsByClassName("number");
+//const numbers = document.getElementsByClassName("number");
 const selectColor = document.getElementById("color");
 const body = document.getElementsByTagName("body");
 
@@ -17,6 +17,7 @@ btnDisplay.addEventListener('click', function(){
 
 }
 
+/*
 const constant = 0;
 var dontDoVar = 5;
 let doLet = 10;
@@ -57,3 +58,4 @@ function AddTwoNumbers(num1, num2)
 }
 
 let compareExample = 5 % 3;
+*/
